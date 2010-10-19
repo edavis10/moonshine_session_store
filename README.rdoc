@@ -2,3 +2,6 @@ Configure in your moonshine.yml like:
 
 :session_key: 'long-hex-string-which-you-can-get-from-activesupport'
 
+Then include the recipe in your application_manifest.rb
+
+  recipe :session_store
