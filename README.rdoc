@@ -1,0 +1,4 @@
+Configure in your moonshine.yml like:
+
+:session_key: 'long-hex-string-which-you-can-get-from-activesupport'
+
